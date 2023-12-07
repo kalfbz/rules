@@ -1,0 +1,5 @@
+# UPDATE: 2023-12-07 0100Z
+# DESCRIPTION: WeChat IP Range
+payload:
+  - '101.32.104.0/32'
+  - 129.226.2.0/23
