@@ -2,4 +2,4 @@
 # DESCRIPTION: WeChat IP Range
 payload:
   - '101.32.104.0/32'
-  - 129.226.2.0/23
+  - '129.226.2.0/23'
