@@ -1,0 +1,7 @@
+# UPDATE: 2024-09-20
+payload:
+  - DOMAIN,gemini.google.com
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,bing.net

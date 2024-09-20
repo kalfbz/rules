@@ -1,0 +1,7 @@
+# UPDATE: 2024-09-20
+payload:
+  - DOMAIN-KEYWORD,podcasts #苹果podcasts
+  - DOMAIN-KEYWORD,mvod.itunes.apple.com #苹果beats 1电台
+  - DOMAIN-SUFFIX,velocityweather.com #FR24 天气
+  - DOMAIN-SUFFIX,flightradar24.com #FR24
+  - DOMAIN-SUFFIX,virtualearth.com #FR24实景地图
