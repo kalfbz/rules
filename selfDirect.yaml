@@ -13,4 +13,4 @@ payload:
   - IP-CIDR,188.42.95.0/24,no-resolve #unity语音
   - IP-CIDR,188.42.147.0/24,no-resolve #unity语音
   - IP-CIDR,216.52.53.0/24,no-resolve #unity语音
-  - +.cn
+  - DOMAIN-SUFFIX,+.cn
