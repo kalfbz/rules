@@ -5,3 +5,27 @@ payload:
   - DOMAIN-SUFFIX,velocityweather.com #FR24 天气
   - DOMAIN-SUFFIX,flightradar24.com #FR24
   - DOMAIN-SUFFIX,virtualearth.com #FR24实景地图
+  - DOMAIN-KEYWORD,apple-relay #Apple Intelligence
+  # Apple Podcasts
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN-SUFFIX,podbean.com
+  - DOMAIN-SUFFIX,soundon.fm
+  - DOMAIN-SUFFIX,fm
+  - DOMAIN-SUFFIX,seahorseplanet.net
+  # Apple Books
+  - DOMAIN,buy.itunes.apple.com
+  # Apple iCloud Private Relay
+  - DOMAIN,mask-canary.icloud.com
+  - DOMAIN,mask.apple-dns.net
+  - DOMAIN,canary.mask.apple-dns.net
+  - DOMAIN-SUFFIX,safebrowsing.apple
+  # Apple Books
+  - DOMAIN,buy.itunes.apple.com
+  # Apple TV
+  - DOMAIN,amp-api.videos.apple.com
+  # Apple Podcasts
+  - DOMAIN-SUFFIX,podcasts.apple.com
+  - DOMAIN-SUFFIX,podbean.com
+  - DOMAIN-SUFFIX,soundon.fm
+  - DOMAIN-SUFFIX,fm
+  - DOMAIN-SUFFIX,seahorseplanet.net
