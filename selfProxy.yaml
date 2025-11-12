@@ -29,3 +29,10 @@ payload:
   - DOMAIN-SUFFIX,soundon.fm
   - DOMAIN-SUFFIX,fm
   - DOMAIN-SUFFIX,seahorseplanet.net
+  # Apple Intelligence
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN,apple-relay.cloudflare.com
+  - DOMAIN,apple-relay.fastly-edge.com
+  - DOMAIN,cp4.cloudflare.com
+  - DOMAIN,apple-relay.apple.com
