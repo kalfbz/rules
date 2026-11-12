@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,courier.push.apple.com #苹果中国iMessage推送
   - DOMAIN-KEYWORD,apac-china-courier #苹果中国iMessage推送
   - DOMAIN-SUFFIX,globalsign.com #云闪付拉起付款
+  - DOMAIN-SUFFIX,tjxxqrmyy.com #官网
